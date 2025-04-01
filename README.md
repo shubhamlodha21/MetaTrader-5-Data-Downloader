@@ -219,7 +219,3 @@ For issues or questions:
 * [MetaTrader 5](https://www.metatrader5.com/) for providing the API
 * [Streamlit](https://streamlit.io/) for the web app framework
 * All open-source contributors
-
-## 🔗 Related Projects
-* [MT5 Trading Bot](https://github.com/example/mt5-trading-bot)
-* [Financial Data Analysis](https://github.com/example/financial-analysis)
