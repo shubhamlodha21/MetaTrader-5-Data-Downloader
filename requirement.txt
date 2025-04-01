@@ -1,0 +1,19 @@
+# MetaTrader 5 Data Downloader Requirements
+
+# Core dependencies
+streamlit>=1.26.0
+MetaTrader5>=5.0.44
+pandas>=1.5.3
+numpy>=1.24.3
+
+# Data visualization
+plotly>=5.15.0
+
+# System utilities
+psutil>=5.9.5
+
+# Time handling
+pytz>=2023.3
+
+# Optional: For enhanced dataframe operations
+openpyxl>=3.1.2  # For Excel export support
