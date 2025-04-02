@@ -28,6 +28,9 @@ The MetaTrader 5 Data Downloader is a Streamlit-based application that allows us
 * MetaTrader 5 configured to allow API connections
 * Python packages (see requirements.txt)
 
+## 🛠️ Output Video Link - 
+https://drive.google.com/file/d/1Qs7h_-diouCN0gBFUjQ5a_MNuiGCuNP3/view?usp=sharing
+
 ## ⚠️ Important Limitations
 **This is a LOCAL ONLY application** ⚠️
 
