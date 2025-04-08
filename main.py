@@ -73,7 +73,6 @@ def get_available_symbols():
         "Forex": [],
         "Crypto": [],
         "Stocks": [],
-        "Indices": [],
         "Commodities": [],
         "Other": []
     }
